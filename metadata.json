@@ -1,0 +1,6 @@
+{
+  "name": "Orcaatrate",
+  "description": "Global 100K live debt-to-capitalization analytics, live financial market data, circle offsetting, and distressed debt intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
